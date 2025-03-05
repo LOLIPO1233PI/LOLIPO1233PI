@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @LOLIPO1233PI
-- 🌱 I’m currently learning python
+# Hi, I'm **LOLIPO1233PI \ yahya** 👋
 
+---
 
-<!---
-LOLIPO1233PI/LOLIPO1233PI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a junior Python developer passionate about problem-solving and writing clean code.
+I have experience working with Python and continuously learning new concepts to improve my skills.
+
+---
+
+## Languages
+- **French:** Native/Fluent
+- **English:** Fluent
+- **Arabic:** Fluent
+
+---
+
+## Skills
+- **Python:** Core, OOP, Scripting
+- **Debugging**
