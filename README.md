@@ -1,6 +1,3 @@
-Voici une version améliorée et plus esthétique de ton introduction, avec une **meilleure mise en page**, des **icônes** et une **présentation plus engageante**.  
-
----
 
 # 👋 Hi, I'm **LOLIPO1233PI** (Yahya)  
 
