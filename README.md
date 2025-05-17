@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me  
 I'm a **junior Python developer** passionate about writing **clean, efficient code** and solving **challenging problems**.  
-I love exploring new technologies and continuously improving my **coding skills**.  
+Continuously improving my **coding skills**.  
 
 ---
 
